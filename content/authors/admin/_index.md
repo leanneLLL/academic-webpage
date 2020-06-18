@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Undergrad of Mathematics of Computation at UCLA
+role: Undergrad of Mathematics of Computation 
 
 # Organizations/Affiliations
 organizations:
