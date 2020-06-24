@@ -25,11 +25,7 @@ date_format = "Jan 2006"
   date_start = "2017-08-01"
   date_end = "2019-06-01"
   description = "Pursued Associate degree in Mathematics, Computer Science and Physics.""
-  #Responsibilities include:
-  
-  #* Analysing
-  #* Modelling
-  #* Deploying
+
   """
 
 [[experience]]
