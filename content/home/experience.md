@@ -25,10 +25,12 @@ date_format = "Jan 2006"
   date_start = "2017-08-01"
   date_end = "2019-06-01"
   description = """
+  Responsibilities include:
 
+  * Analysing
+  * Modelling
+  * Deploying
   """
-
-
 
 [[experience]]
   title = "Undergraduate Student"
@@ -36,7 +38,7 @@ date_format = "Jan 2006"
   company_url = "https://www.math.ucla.edu/"
   location = "Los Angeles, California"
   date_start = "2019-09-01"
-  date_end = "Present"
+  date_end = "2021-06-01"
   description = """Majoring in Mathematics of Computation."""
 
 +++
