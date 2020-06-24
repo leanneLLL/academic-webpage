@@ -18,27 +18,27 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "Associate in Computer Science"
+  title = "Associate Student"
   company = "Cañada College"
-  company_url = ""
-  location = "California"
+  company_url = "https://canadacollege.edu/"
+  location = "Redwood City, California"
   date_start = "2017-08-01"
   date_end = "2019-06-01"
-  description = """
-  Responsibilities include:
+  description = "Pursued Associate degree in Mathematics, Computer Science and Physics.""
+  #Responsibilities include:
   
-  * Analysing
-  * Modelling
-  * Deploying
+  #* Analysing
+  #* Modelling
+  #* Deploying
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  title = "Undergraduate Student"
+  company = "University of California, Los Angeles"
+  company_url = "https://www.math.ucla.edu/"
+  location = "Los Angeles, California"
+  date_start = "2019-09-01"
+  date_end = "Present"
+  description = """Majoring in Mathematics of Computation."""
 
 +++
