@@ -24,9 +24,9 @@ date_format = "Jan 2006"
   location = "Redwood City, California"
   date_start = "2017-08-01"
   date_end = "2019-06-01"
-  description = "Pursued Associate degree in Mathematics, Computer Science and Physics."
+  description = """Pursued Associate degree in Mathematics, Computer Science and Physics."""
 
-  """
+
 
 [[experience]]
   title = "Undergraduate Student"
