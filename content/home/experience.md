@@ -53,6 +53,8 @@ date_format = "Jan 2006"
   location = "Los Angeles, California"
   date_start = "2019-09-01"
   date_end = "2021-06-01"
-  description = """Majoring in Mathematics of Computation.
-	Active member in Women in Math(WIM) UCLA"""
+  description = """
+  *Majoring in Mathematics of Computation.
+  *Active member in Women in Math(WIM) UCLA
+"""
 +++
