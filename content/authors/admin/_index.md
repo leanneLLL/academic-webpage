@@ -10,32 +10,32 @@ authors:
 superuser: true
 
 # Role/position
-role: Undergrad of Mathematics of Computation 
+role: Undergraduate student  of Mathematics of Computation 
 
 # Organizations/Affiliations
 organizations:
 - name: University of California, Los Angeles
-  url: ""
+  url: "https://www.math.ucla.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include machine learning, network analysis, and data science.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Machine Learning
+- Network Analysis
+- Data Science
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
+<!--   - course: PhD in Artificial Intelligence
     institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+    year: 2012 -->
+  - course: BSc in Mathematics of Computation
+    institution: University of California, Los Angeles
+    year: 2021(expected)
+  - course: Associate in Computer Science, Mathematics
+    institution: Cañada College
+    year: 2019
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -45,15 +45,15 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
+<!-- - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
+  link: https://twitter.com/GeorgeCushen -->
+<!-- - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ -->
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/leanneLLL
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -70,5 +70,7 @@ user_groups:
 - Visitors
 ---
 
-I'm a rising senior in the Mathematics Department at University of California, Los Angeles. I'm interested in computer science, network analysis, front-end design, data science and 
-atmospheric and oceanic science.
+I'm a rising senior in the Mathematics Department at the University of California, Los Angeles. I'm interested in computer science, network analysis, machine learning, front-end design, data science, and atmospheric and oceanic science.
+
+I am currently looking for a software engineering intern for 2021 summer. I am open to all kinds of career opportunities. Please feel free to contact me.
+
